@@ -34,4 +34,4 @@ On first run, the system automatically:
 - Creates `data/staff_biodata.sqlite`
 - Creates `staff` table with required fields
 
-### If You See This Error:
+### If You See Any Error Kindly Contact us at https://crownmatrixtech.com.ng
